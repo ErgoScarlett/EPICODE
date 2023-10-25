@@ -1,0 +1,160 @@
+body {
+  height: 100vh;
+  width: fit-content;
+  margin: auto;
+}
+
+
+.boxzero {
+   margin-top: 10px;
+   text-align: center;
+}
+
+.logo {
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    height: 40px
+  }
+
+
+.boxone {
+  background-color: #f3f3d3;
+  width: 100%;
+  height: 40px;
+  border-top: solid 1px #c49617;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin-top: 10px;
+  opacity: 50%;
+}
+
+
+.subtit { 
+   font-size: small;
+   font-weight: 700;
+   color: rgb(16, 121, 121);
+   margin-top: 10px;
+  
+ }
+
+ 
+.sub span{
+     text-transform: uppercase;
+ }
+
+
+.boxtwo {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   width: 40rem;
+} 
+
+.titlebox {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin-top: 30px;
+   margin-bottom: 10px;
+  }
+
+.title {
+    color:black;
+    text-align: center;
+  }
+     
+
+.sub { 
+   margin-bottom: 10px;
+   margin-top: 10px;
+  }
+
+
+.food { 
+    width: 600px;
+    height: 500px;
+    border-radius: 20px 20px 20px 20px;
+    box-shadow: 5px 5px 5px #4b4b4b;
+  }
+    
+.image {
+    text-align: center;
+    margin-top: 20px;
+    color: gray;
+  }
+
+
+.boxthree {
+   border: solid 2px yellow;
+   border-bottom: none;
+   border-top: none;
+   border-right: none;
+   margin-top: 30px;
+   margin-bottom: 30px;
+   padding: 2px;
+  }
+
+.ft { 
+   color:brown;
+   text-transform: uppercase;
+   margin-left: 20px;
+   text-align: left;
+  }
+
+
+.ing {
+   margin-bottom: 20px;
+  }  
+
+
+  .boxfour {
+    border: solid 1px cadetblue;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+  }
+
+
+  .focaccia {
+    margin-top: 10px;
+  }
+
+li {
+    margin: 20px;
+    margin-left: 3%;
+  }
+
+
+.boxfive{
+    width: 40rem;
+    margin-top: 20px;
+
+  }
+
+
+.boxsix {
+    border: solid 1px cadetblue;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+  }
+
+
+.prep {
+  font-weight: 800
+}
+
+
+.descr {
+   margin-left: 40px;
+   margin-right: 10px;
+   margin-bottom: 10px
+  }
+
+
+.reci {
+  text-align: left;
+}
